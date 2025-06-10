@@ -6,3 +6,4 @@
 	syscall 
 	
 	li $v0, 10 #Encerrar o programa
+	syscall 
