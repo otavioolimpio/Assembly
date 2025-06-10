@@ -4,6 +4,5 @@
 	li $v0, 4 #Imprimir char ou string
 	la $a0, caractere
 	syscall 
-	
 	li $v0, 10 #Encerrar o programa
 	syscall 
