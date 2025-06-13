@@ -1,7 +1,7 @@
 .text 
 	#Realizando a subtração
-	addi $t1, $zero, 15
-	addi $t2, $zero, 5
+	li $t1, 15
+	li $t2, 5
 	sub $t0, $t1, $t2
 	
 	#imprimir na tela
